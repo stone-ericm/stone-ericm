@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Eric
 
-<!--
-**stone-ericm/stone-ericm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst at The New York Times, building data infrastructure that powers subscriber targeting and marketing analytics. Based in Brooklyn.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[screenshot_event](https://github.com/stone-ericm/screenshot_event)** — Turn screenshots of events into Google Calendar entries using Claude's vision AI. Full-stack JS with Vercel, Cloudflare Workers, and Google OAuth.
+
+- **[trmnl_monarch](https://github.com/stone-ericm/trmnl_monarch)** — Financial transaction display for TRMNL e-ink devices. Integrates with Monarch Money API.
+
+- **[local_news_blur](https://github.com/stone-ericm/local_news_blur)** — RSS reader plugin for TRMNL displaying NewsBlur feeds with thumbnails.
+
+## Tech I Use
+
+**Languages:** JavaScript, Python, SQL
+**Data:** dbt, BigQuery, Airflow, Pandas
+**Infrastructure:** GCP, Vercel, Docker, GitHub Actions
+
+## Elsewhere
+
+- [LinkedIn](https://linkedin.com/in/stoneericm)
