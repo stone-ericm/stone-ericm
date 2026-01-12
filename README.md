@@ -13,8 +13,11 @@ Data Analyst at The New York Times, building data infrastructure that powers sub
 ## Tech I Use
 
 **Languages:** JavaScript, Python, SQL
+
 **Data:** dbt, BigQuery, Airflow, Pandas
+
 **Infrastructure:** GCP, Vercel, Docker, GitHub Actions
+
 
 ## Elsewhere
 
