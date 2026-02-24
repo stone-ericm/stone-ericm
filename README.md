@@ -1,23 +1,24 @@
 # Hey, I'm Eric
 
-Data Analyst at The New York Times, building data infrastructure that powers subscriber targeting and marketing analytics. Based in Brooklyn.
+Data analyst at The New York Times, where I build data infrastructure and tooling. Side projects in Python, JS, and whatever seems interesting. Based in Brooklyn.
 
 ## What I'm Working On
 
-- **[screenshot_event](https://github.com/stone-ericm/screenshot_event)** — Turn screenshots of events into Google Calendar entries using Claude's vision AI. Full-stack JS with Vercel, Cloudflare Workers, and Google OAuth.
+- **[Greene Hill Food Co-op Automation](https://github.com/stone-ericm/ghfc-shifts)** — Automating shift scheduling for a Brooklyn food co-op. Python, FastAPI, CiviCRM + Humanity APIs.
 
-- **[trmnl_monarch](https://github.com/stone-ericm/trmnl_monarch)** — Financial transaction display for TRMNL e-ink devices. Integrates with Monarch Money API.
+- **[Screenshot → Calendar](https://github.com/stone-ericm/screenshot_event)** — Turn screenshots of events into Google Calendar entries using Claude's vision AI. Vercel, Cloudflare Workers, Google OAuth.
 
-- **[local_news_blur](https://github.com/stone-ericm/local_news_blur)** — RSS reader plugin for TRMNL displaying NewsBlur feeds with thumbnails.
+- **[NYC Parking Ticket Map](https://github.com/stone-ericm/parking_ticket_map)** — Interactive heatmap of parking tickets by street, day, and hour. NYC Open Data → SQLite → Streamlit.
+
+- **[TRMNL Plugins](https://github.com/stone-ericm/trmnl_monarch)** — E-ink display widgets for financial data, RSS feeds, and more. Self-hosted on Raspberry Pi.
 
 ## Tech I Use
 
-**Languages:** JavaScript, Python, SQL
+**Languages:** Python, JavaScript, SQL
 
-**Data:** dbt, BigQuery, Airflow, Pandas
+**Data:** dbt, BigQuery, Airflow, Pandas, SQLAlchemy
 
-**Infrastructure:** GCP, Vercel, Docker, GitHub Actions
-
+**Infrastructure:** GCP, Vercel, Docker, GitHub Actions, PostgreSQL, Redis
 
 ## Elsewhere
 
