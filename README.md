@@ -22,4 +22,5 @@ Data analyst at The New York Times, where I build data infrastructure and toolin
 
 ## Elsewhere
 
+- [ericstone.dev](https://ericstone.dev)
 - [LinkedIn](https://linkedin.com/in/stoneericm)
