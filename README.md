@@ -4,13 +4,13 @@ Data analyst at The New York Times, where I build data infrastructure and toolin
 
 ## What I'm Working On
 
-- **[Greene Hill Food Co-op Automation](https://github.com/stone-ericm/ghfc-shifts)** — Automating shift scheduling for a Brooklyn food co-op. Python, FastAPI, CiviCRM + Humanity APIs.
+- **[Screenshot to Calendar](https://github.com/stone-ericm/screenshot_event)** — Turn screenshots of events into Google Calendar entries using Claude's vision AI. Vercel, Cloudflare Workers, Google OAuth.
 
-- **[Screenshot → Calendar](https://github.com/stone-ericm/screenshot_event)** — Turn screenshots of events into Google Calendar entries using Claude's vision AI. Vercel, Cloudflare Workers, Google OAuth.
+- **[NYC Parking Ticket Heatmap](https://github.com/stone-ericm/parking_ticket_map)** — Interactive heatmap of parking tickets by street, day, and hour. NYC Open Data API, SQLite, Streamlit.
 
-- **[NYC Parking Ticket Map](https://github.com/stone-ericm/parking_ticket_map)** — Interactive heatmap of parking tickets by street, day, and hour. NYC Open Data → SQLite → Streamlit.
+- **[News Dashboard](https://github.com/stone-ericm/news_dashboard)** — Evidence-driven dashboard for surfacing statistically significant real-world trend changes. Dagster, FastAPI, multiple government data sources.
 
-- **[TRMNL Plugins](https://github.com/stone-ericm/trmnl_monarch)** — E-ink display widgets for financial data, RSS feeds, and more. Self-hosted on Raspberry Pi.
+- **[TRMNL Plugins](https://github.com/stone-ericm/trmnl_monarch)** — E-ink display widgets for financial data, RSS feeds, and more. Zero-dependency serverless functions on Vercel.
 
 ## Tech I Use
 
@@ -22,5 +22,4 @@ Data analyst at The New York Times, where I build data infrastructure and toolin
 
 ## Elsewhere
 
-- [ericstone.dev](https://ericstone.dev)
 - [LinkedIn](https://linkedin.com/in/stoneericm)
